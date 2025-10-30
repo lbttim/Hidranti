@@ -19,7 +19,7 @@ HIDRANTI is an Android application designed to make checking the condition of hy
 ## Screenshots
 
 | Main Page (Stats) | Hydrants Map | Hydrants List | Hydrant details | Hydrant Inspection Form |
-|-----------------|-----------------|-----------------|-----------------|
+|-----------------|-----------------|-----------------|-----------------|-----------------|
 | ![Main Page](screenshots/main.jpg) | ![Hydrants Map](screenshots/map.jpg) | ![Hydrants Map](screenshots/list.jpg) | ![Hydrants details](screenshots/details.jpg) | ![Inspection Form](screenshots/inspection.jpg) |
 
 
