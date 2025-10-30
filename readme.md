@@ -18,9 +18,9 @@ HIDRANTI is an Android application designed to make checking the condition of hy
 
 ## Screenshots
 
-| Main Page (Stats) | Hydrants Map | List of Hydrants | Hydrant Inspection Form |
+| Main Page (Stats) | Hydrants Map | Hydrants List | Hydrant details | Hydrant Inspection Form |
 |-----------------|-----------------|-----------------|-----------------|
-| ![Main Page](https://play-lh.googleusercontent.com/NxF-c5QOiueOficCZPqLkgYRTCozibiAetXC6sve54h27eOjbamcHeHWPvbbdVZlBic=w512-h288-rw) | ![Hydrants Map](https://play-lh.googleusercontent.com/D8Cto-arZkkUPtQsy93sRbALelNmEjCWKK73r24z_Tbpqy7YbcztxFrcUzAxIs52Vg=w512-h288-rw) | ![Hydrants List](https://play-lh.googleusercontent.com/RBDQf5EYLfaDMv9DBN_GPMhwU3qsr9YjA4RsXmOJkPh38uH-T2-cT1mwcfCAxHuUivU=w512-h288-rw) | ![Inspection Form](https://play-lh.googleusercontent.com/xDIWvLbn3hVTzyLy9pcRG61miphq7Vwaj80NKFLrIAVGdcVXn60A_wcUXKf1xU2WfzEH=w512-h288-rw) |
+| ![Main Page](screenshots/main.jpg) | ![Hydrants Map](screenshots/map.jpg) | ![Hydrants Map](screenshots/list.jpg) | ![Hydrants details](screenshots/details.jpg) | ![Inspection Form](screenshots/inspection.jpg) |
 
 
 
