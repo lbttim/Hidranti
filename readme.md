@@ -18,17 +18,14 @@ HIDRANTI is an Android application designed to make checking the condition of hy
 
 ## Screenshots
 
-- **Main Page (Stats):**  
-![Main Page](https://play-lh.googleusercontent.com/NxF-c5QOiueOficCZPqLkgYRTCozibiAetXC6sve54h27eOjbamcHeHWPvbbdVZlBic=w2560-h1440-rw)
+| Main Page (Stats) | Hydrants Map |
+|------------------|--------------|
+| ![Main Page](https://play-lh.googleusercontent.com/NxF-c5QOiueOficCZPqLkgYRTCozibiAetXC6sve54h27eOjbamcHeHWPvbbdVZlBic=w512-h288-rw) | ![Hydrants Map](https://play-lh.googleusercontent.com/D8Cto-arZkkUPtQsy93sRbALelNmEjCWKK73r24z_Tbpqy7YbcztxFrcUzAxIs52Vg=w512-h288-rw) |
 
-- **Hydrants Map:**  
-![Hydrants Map](https://play-lh.googleusercontent.com/D8Cto-arZkkUPtQsy93sRbALelNmEjCWKK73r24z_Tbpqy7YbcztxFrcUzAxIs52Vg=w2560-h1440-rw)
+| List of Hydrants | Hydrant Inspection Form |
+|-----------------|------------------------|
+| ![Hydrants List](https://play-lh.googleusercontent.com/RBDQf5EYLfaDMv9DBN_GPMhwU3qsr9YjA4RsXmOJkPh38uH-T2-cT1mwcfCAxHuUivU=w512-h288-rw) | ![Inspection Form](https://play-lh.googleusercontent.com/xDIWvLbn3hVTzyLy9pcRG61miphq7Vwaj80NKFLrIAVGdcVXn60A_wcUXKf1xU2WfzEH=w512-h288-rw) |
 
-- **List of Hydrants:**  
-![Hydrants List](https://play-lh.googleusercontent.com/RBDQf5EYLfaDMv9DBN_GPMhwU3qsr9YjA4RsXmOJkPh38uH-T2-cT1mwcfCAxHuUivU=w2560-h1440-rw)
-
-- **Hydrant Inspection Report Form:**  
-![Inspection Form](https://play-lh.googleusercontent.com/xDIWvLbn3hVTzyLy9pcRG61miphq7Vwaj80NKFLrIAVGdcVXn60A_wcUXKf1xU2WfzEH=w2560-h1440-rw)
 
 ## Download
 
