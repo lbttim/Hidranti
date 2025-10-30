@@ -16,6 +16,15 @@ HIDRANTI is an Android application designed to make checking the condition of hy
 - **Secure Login:** Ensures only authorized users can access and modify hydrant data.  
 - **Optimized Performance:** Fast loading and smooth user experience.
 
+## Usage & Impact
+
+- **Replaced Paper Inspections:** HIDRANTI has modernized hydrant inspections, replacing traditional paper-based reporting.  
+- **Used by Firefighting Units:** The app is currently used by **more than 20 firefighting units**.  
+- **In Use Since:** 2023, supporting firefighting teams in daily hydrant inspections.  
+- **Hydrant Inspections:** Each year, **over 7,000 hydrants** are inspected using HIDRANTI, ensuring safety and compliance.  
+- **Who Uses It:** Firefighters and municipal teams rely on HIDRANTI to track, manage, and maintain hydrants efficiently.  
+
+
 ## Screenshots
 
 | Main Page (Stats) | Hydrants Map | Hydrants List | Hydrant details | Hydrant Inspection Form |
